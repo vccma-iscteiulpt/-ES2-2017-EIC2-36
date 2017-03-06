@@ -1,8 +1,0 @@
-<XML>
-	<Order Id="1" Type="Sell" Stock="EDP" Units="10" Price="1">
-	<Customer Name="John"/>
-	</Order>
-	<Order Id="2" Type="Sell" Stock="GALP" Units=”20” Price="2">
-	<Customer Name="Mary"/>
-	</Order>
-</XML>
